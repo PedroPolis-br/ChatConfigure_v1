@@ -1586,6 +1586,7 @@ const messages = {
         },
       },
       messageOptionsMenu: {
+        edit: "Editar",
         delete: "Deletar",
         reply: "Responder",
         confirmationModal: {
